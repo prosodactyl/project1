@@ -1,4 +1,4 @@
-# project1
+# Project to learn GitHub
 My new project to test out this
 
 # level 1
