@@ -17,5 +17,5 @@ My new project to test out this
 
 | header1 | header2 |
 | --- | --- |
-| row1cell1 | row1cell2 |
+| start work on project | Jan 3 |
 | row2cell1 | row2cell2 |
