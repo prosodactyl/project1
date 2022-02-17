@@ -7,7 +7,7 @@ schools_data <- read.csv("https://github.com/HeardLibrary/digital-scholarship/ra
 hist(schools_data$Female)
 
 # Create a histogram using ggplot
-ggplot(data = schools_data) + geom_histogram(mapping = aes(x = Female), binwidth = 100)
+ggplot(data = schools_data) + geom_histogram(mapping = aes(x = Female), binwidth = 100, fill="gray", color="black")
 
 # Assigning one of the functions to a variable
 base_plot <- ggplot(data = schools_data)
